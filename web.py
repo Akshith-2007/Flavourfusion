@@ -101,7 +101,7 @@ if not st.session_state["authenticated"]:
             else:
                 st.error("Invalid credentials")
 else:
-    st.image("https://th.bing.com/th/id/OIP.Cq28Lz9zpCu6QUZTWa7aUQHaEK?rs=1&pid=ImgDetMain", use_container_width=True)
+    st.image("https://wallpapers.com/images/featured/1pf6px6ryqfjtnyr.jpg", use_container_width=True)
     st.title("🍽 Flavour Fusion: AI-Powered Recipe Blog")
     
     st.sidebar.header("🔍 Filter Your Recipes")
